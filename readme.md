@@ -34,7 +34,9 @@ Background Adjustment: Explore how to even out the background to isolate stars.
 ### Tips
 
 - **Control Settings:** If possible, shoot in RAW format for greater flexibility in post-processing.
+
 - **Reference Images:** Find example high-quality starfield images online to compare your results against.
+
 - **Calibrations:** Consider how to account for possible lens distortions of your phone camera.
 
 ### Project Extensions
